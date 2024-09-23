@@ -95,4 +95,10 @@ class Solution {
         return Integer.toBinaryString(len)
     }
 }
+// Java의 Integer 클래스 함수
+// Integer.toBinaryString() - 10진수를 2진수로 변환
+// Integer.toOctalString() - 10진수를 8진수로 변환
+// Integer.toHexString() - 10진수를 16진수로 변환
+// Integer.parseInt(s) - 문자열에 해당하는 10진수 integer 반환
+// Integer.parseInt(s, n) - 문자열에 해당하는 n진수 integer 반환
 ```
